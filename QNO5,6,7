@@ -1,0 +1,24 @@
+Q5: The minimum number of functions present in any C++ program is:
+0
+1
+2
+Infinite
+
+Answer is 1
+
+Q6: State True and False:
+A function may be called more than once from any other function  (True)
+
+It is necessary for a function to return some value.     (False)
+Q7: Explore:
+Can the same function name be used for different functions without any conflict?  
+Answer: Yes we can but with different parameters or different data type of parameters e.g
+int add(int a,int b){
+    return a+b;
+}
+int add(float a, float b){
+    return a+b;
+}
+int add( int a,int b, int c){
+    return a+b+c;
+}
