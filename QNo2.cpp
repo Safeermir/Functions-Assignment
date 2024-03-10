@@ -1,4 +1,4 @@
-// Program to Take find the area of a circle using functions takign radius as argument.
+// Program to find the area of a circle using functions taking radius as argument.
 #include<iostream>
 using namespace std;
 float Area(float r){
